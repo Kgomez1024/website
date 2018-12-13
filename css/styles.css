@@ -12,7 +12,6 @@ h2 { text-transform: uppercase;
 font-size: 20px; }
 #aboutme{text-align: center; }
 #accomplishments { color: blue; }
-ul {text-align: left;}
 #body1 {background-image: url("Soccer.jpg");
   background-size: cover; /*keeps backgound image from covering entire page*/
   background-repeat: no-repeat; /*background image will not repeat*/
