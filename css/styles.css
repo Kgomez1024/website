@@ -16,7 +16,7 @@ font-size: 20px; }
 #body1 {
   width: auto;
     height: auto;
-    background-color: lightblue;
+    background-color: red;
     overflow:auto;
 }
 .button1 {
