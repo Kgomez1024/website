@@ -1,6 +1,6 @@
 #logo {
-    width: 126px ; 
-    Height: 168px ; 
+    width: 378px ; 
+    Height: 504px ; 
     display: block; 
     margin-left: auto; 
     margin-right: auto;
@@ -16,7 +16,7 @@ font-size: 20px; }
 #body1 {
   width: auto;
     height: auto;
-    background-color: red;
+    background-color: lightblue;
     overflow:auto;
 }
 .button1 {
