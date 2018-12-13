@@ -13,9 +13,9 @@ font-size: 20px; }
 #aboutme{text-align: center; }
 #accomplishments { color: blue; }
 #body1 {
-    width: auto;
+  width: auto;
     height: auto;
-    background-image: url("Soccer.jpg") ;
+    background-color: blue;
     overflow:auto;
 }
 .button1 {
