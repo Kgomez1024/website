@@ -15,7 +15,7 @@ font-size: 20px; }
 #body1 {
     width: auto;
     height: auto;
-    background-color: blue;
+    background-image: url("Soccer.jpg") ;
     overflow:auto;
 }
 .button1 {
