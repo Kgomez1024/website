@@ -13,7 +13,10 @@ font-size: 20px; }
 #aboutme{text-align: center; }
 #accomplishments { color: blue; }
 #body1 {
-    background-color: lightblue;
+    width: auto;
+    height: auto;
+    background-color: blue;
+    overflow:auto;
 }
 .button1 {
   font: bold 20px "Times New Roman";
