@@ -4,18 +4,16 @@
     margin-left: auto; 
     margin-right: auto;
     position: relative; }
-    
 h1 {text-align: center;
     font-family: cursive;
-    color:dimgrey
-    }
+    color:dimgrey}
 .info {text-align: center; font-size: 20px;}
 h2 { text-transform: uppercase;
 font-size: 20px; }
 #aboutme{text-align: center; }
 #accomplishments { color: blue; }
 ul {text-align: left; !important;}
-#body1 {background-image: url("Soccer.jpg");
+#body1 {background-image: url("STL.jpg");
   background-size: cover; /*keeps backgound image from covering entire page*/
   background-repeat: no-repeat; /*background image will not repeat*/
   background-position: center; 
