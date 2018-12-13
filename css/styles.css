@@ -17,7 +17,7 @@ ul {text-align: left; !important;}
   background-size: cover; /*keeps backgound image from covering entire page*/
   background-repeat: no-repeat; /*background image will not repeat*/
   background-position: center; 
-  height: 100% 
+  height: 100% ;
   overflow:hidden; }
 .button1 {
   font: bold 20px "Times New Roman";
