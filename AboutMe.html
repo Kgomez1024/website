@@ -21,7 +21,19 @@
 	      <li>Intro to Computer Science</li>
 	    </ul>
 	  </div>
-	     <div>
+	
+      <div class=info>
+        <canvas id="myCanvas" width="550" height="100">
+          Your browser does not support the HTML5 canvas tag.</canvas>
+
+          <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.font = "30px Arial";
+            ctx.strokeText("Make Sure To Check Out My Profiles!",20,30);
+          </script>
+	  </div>     
+	  <div>
 			<svg height="130" width="500">
            <Defs>
               <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -35,17 +47,6 @@
            <text fill="#ffffff" font-size="45" font-family="Verdana"
             x="40" y="86">NY-FL</text>
         </svg>
-	  </div>
-      <div class=info>
-        <canvas id="myCanvas" width="550" height="100">
-          Your browser does not support the HTML5 canvas tag.</canvas>
-
-          <script>
-            var c = document.getElementById("myCanvas");
-            var ctx = c.getContext("2d");
-            ctx.font = "30px Arial";
-            ctx.strokeText("Make Sure To Check Out My Profiles!",20,30);
-          </script>
 	  </div>
   </body>
 </html>
